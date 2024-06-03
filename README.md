@@ -14,3 +14,5 @@ Git commit - saves changes and keeps the git repository upto date.
 
 Git pull: allows to download current files from git repository to local repository. Thus keep local repo uptodate.
 
+Git branch: allows to duplicate a file as a new file 
+
