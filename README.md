@@ -10,5 +10,5 @@ git init is a command that allows to set up a new git repository.
 
 Git clone = allows to reproduce or copy the whole repository folder from github (remote) to local repository. 
 
-Git commit - saves changes and keep the git repository upto date. 
+Git commit - saves changes and keeps the git repository upto date. 
 
